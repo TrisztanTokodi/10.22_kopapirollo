@@ -12,3 +12,18 @@ H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\obj\Debug\net10.0\refint\10
 H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.pdb
 H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.genruntimeconfig.cache
 H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\obj\Debug\net10.0\ref\10.22_jatek-kopapirollo.dll
+C:\Users\TokodiTrisztan\Documents\GitHub\10.22_kopapirollo\10.22_jatek-kopapirollo\bin\Debug\net10.0\10.22_jatek-kopapirollo.exe
+C:\Users\TokodiTrisztan\Documents\GitHub\10.22_kopapirollo\10.22_jatek-kopapirollo\bin\Debug\net10.0\10.22_jatek-kopapirollo.deps.json
+C:\Users\TokodiTrisztan\Documents\GitHub\10.22_kopapirollo\10.22_jatek-kopapirollo\bin\Debug\net10.0\10.22_jatek-kopapirollo.runtimeconfig.json
+C:\Users\TokodiTrisztan\Documents\GitHub\10.22_kopapirollo\10.22_jatek-kopapirollo\bin\Debug\net10.0\10.22_jatek-kopapirollo.dll
+C:\Users\TokodiTrisztan\Documents\GitHub\10.22_kopapirollo\10.22_jatek-kopapirollo\bin\Debug\net10.0\10.22_jatek-kopapirollo.pdb
+C:\Users\TokodiTrisztan\Documents\GitHub\10.22_kopapirollo\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TokodiTrisztan\Documents\GitHub\10.22_kopapirollo\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.AssemblyInfoInputs.cache
+C:\Users\TokodiTrisztan\Documents\GitHub\10.22_kopapirollo\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.AssemblyInfo.cs
+C:\Users\TokodiTrisztan\Documents\GitHub\10.22_kopapirollo\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.csproj.CoreCompileInputs.cache
+C:\Users\TokodiTrisztan\Documents\GitHub\10.22_kopapirollo\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.sourcelink.json
+C:\Users\TokodiTrisztan\Documents\GitHub\10.22_kopapirollo\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.dll
+C:\Users\TokodiTrisztan\Documents\GitHub\10.22_kopapirollo\10.22_jatek-kopapirollo\obj\Debug\net10.0\refint\10.22_jatek-kopapirollo.dll
+C:\Users\TokodiTrisztan\Documents\GitHub\10.22_kopapirollo\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.pdb
+C:\Users\TokodiTrisztan\Documents\GitHub\10.22_kopapirollo\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.genruntimeconfig.cache
+C:\Users\TokodiTrisztan\Documents\GitHub\10.22_kopapirollo\10.22_jatek-kopapirollo\obj\Debug\net10.0\ref\10.22_jatek-kopapirollo.dll

@@ -1,5 +1,8 @@
 ﻿int jpont = 0;
 int gpont = 0;
+int jnyeres = 0;
+int gnyeres = 0;
+int ikilepes = 0;
 do
 {
     
@@ -169,100 +172,139 @@ do
                 Console.WriteLine($"A játékos pontszáma: {jpont}");
                 Console.WriteLine($"A gép pontszáma: {gpont}");
 
-                int kerdesism = 0;
-                do
-                {
-                    if (jpont >= 3)
-                    {
-                        Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine();
-                        Console.WriteLine("Gratulálok, nyertél!");
-                        Console.ResetColor();
-                        jpont = 0;
-                        gpont = 0;
-                        Console.ForegroundColor = ConsoleColor.Yellow;
-                        Console.Write("Szeretnél új játékot kezdeni? (I/N): ");
-                        Console.ResetColor();
-                        ConsoleKeyInfo ujjatek = Console.ReadKey();
-                        if (ujjatek.KeyChar == 'I' || ujjatek.KeyChar == 'i')
-                        {
-                            Console.WriteLine();
-                            Console.ForegroundColor = ConsoleColor.Yellow;
-                            Console.WriteLine("Új játék kezdése...!");
-                            Console.ResetColor();
-                            kerdesism = 1;
-                        }
-                        else if (ujjatek.KeyChar == 'N' || ujjatek.KeyChar == 'n')
-                        {
-                            Console.WriteLine();
-                            Console.ForegroundColor = ConsoleColor.DarkGray;
-                            Console.WriteLine("Kiléptél a játékból!");
-                            Console.ResetColor();
-                            kilepes = 1;
-                            kerdesism = 1;
-                        }
-                        else
-                        {
-                            Console.ForegroundColor = ConsoleColor.Red;
-                            Console.WriteLine();
-                            Console.WriteLine("Ismeretlen billentyű!");
-                            Console.ResetColor();
-                        }
-                    }
-                    else if (gpont >= 3)
-                    {
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine();
-                        Console.WriteLine("Sajnálom, vesztettél!");
-                        Console.ResetColor();
-                        jpont = 0;
-                        gpont = 0;
-                        Console.ForegroundColor = ConsoleColor.Yellow;
-                        Console.Write("Szeretnél új játékot kezdeni? (I/N): ");
-                        Console.ResetColor();
-                        ConsoleKeyInfo ujjatek = Console.ReadKey();
-                        if (ujjatek.KeyChar == 'I' || ujjatek.KeyChar == 'i')
-                        {
-                            Console.WriteLine();
-                            Console.ForegroundColor = ConsoleColor.Yellow;
-                            Console.WriteLine("Új játék kezdése...!");
-                            Console.ResetColor();
-                            kerdesism = 1;
-                        }
-                        else if (ujjatek.KeyChar == 'N' || ujjatek.KeyChar == 'n')
-                        {
-                            Console.WriteLine();
-                            Console.ForegroundColor = ConsoleColor.DarkGray;
-                            Console.WriteLine("Kiléptél a játékból!");
-                            Console.ResetColor();
-                            Console.WriteLine();
-                            kilepes = 1;
-                            kerdesism = 1;
-                        }
-                        else
-                        {
-                            Console.ForegroundColor = ConsoleColor.Red;
-                            Console.WriteLine();
-                            Console.WriteLine("Ismeretlen billentyű!");
-                            Console.ResetColor();
-                        }
-                    }
-                } while (kerdesism == 0);
 
+
+                int kerdesism = 0;
+                if (jpont >= 3)
+                    do
+                    {
+                        {
+                            Console.ForegroundColor = ConsoleColor.Green;
+                            Console.WriteLine();
+                            Console.WriteLine("Gratulálok, nyertél!");
+                            jnyeres++;
+                            Console.ResetColor();
+                            jpont = 0;
+                            gpont = 0;
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            Console.Write("Szeretnél új játékot kezdeni? (I/N): ");
+                            Console.ResetColor();
+                            ConsoleKeyInfo ujjatek = Console.ReadKey();
+                            if (ujjatek.KeyChar == 'I' || ujjatek.KeyChar == 'i')
+                            {
+                                Console.WriteLine();
+                                Console.ForegroundColor = ConsoleColor.Yellow;
+                                Console.WriteLine("Új játék kezdése...!");
+                                Console.ResetColor();
+                                kerdesism = 1;
+                            }
+                            else if (ujjatek.KeyChar == 'N' || ujjatek.KeyChar == 'n')
+                            {
+                                Console.WriteLine();
+                                Console.ForegroundColor = ConsoleColor.DarkGray;
+                                Console.WriteLine("Kiléptél a játékból!");
+                                Console.ResetColor();
+                                kilepes = 1;
+                                kerdesism = 1;
+                            }
+                            else
+                            {
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine();
+                                Console.WriteLine("Ismeretlen billentyű!");
+                                Console.ResetColor();
+                            }
+                        }
+                    } while (kerdesism == 0);
+                else if (gpont >= 3)
+                    do
+                    {
+                        {
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.WriteLine();
+                            Console.WriteLine("Sajnálom, vesztettél!");
+                            gnyeres++;
+                            Console.ResetColor();
+                            jpont = 0;
+                            gpont = 0;
+                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            Console.Write("Szeretnél új játékot kezdeni? (I/N): ");
+                            Console.ResetColor();
+                            ConsoleKeyInfo ujjatek = Console.ReadKey();
+                            if (ujjatek.KeyChar == 'I' || ujjatek.KeyChar == 'i')
+                            {
+                                Console.WriteLine();
+                                Console.ForegroundColor = ConsoleColor.Yellow;
+                                Console.WriteLine("Új játék kezdése...!");
+                                Console.ResetColor();
+                                kerdesism = 1;
+                            }
+                            else if (ujjatek.KeyChar == 'N' || ujjatek.KeyChar == 'n')
+                            {
+                                Console.WriteLine();
+                                Console.ForegroundColor = ConsoleColor.DarkGray;
+                                Console.WriteLine("Kiléptél a játékból!");
+                                Console.ResetColor();
+                                Console.WriteLine();
+                                kilepes = 1;
+                                kerdesism = 1;
+                            }
+                            else
+                            {
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine();
+                                Console.WriteLine("Ismeretlen billentyű!");
+                                Console.ResetColor();
+                            }
+                        }
+                    } while (kerdesism == 0);
 
                 break;
 
             case '2':
-
+                Console.WriteLine($"Ön ennyi mérkőzést nyert: {jnyeres}");
+                Console.WriteLine($"A gép ennyi mérkőzést nyert: {gnyeres}");
+                Console.WriteLine();
+                kilepes = 1;
                 break;
 
             case '3':
-
+                Console.Write("Biztosan le szeretnéd nullázni? (I/N): ");
+                ConsoleKeyInfo nullazas = Console.ReadKey();
+                if (nullazas.KeyChar == 'I' || nullazas.KeyChar == 'i')
+                {
+                    jnyeres = 0;
+                    gnyeres = 0;
+                    Console.WriteLine();
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine("A statisztika sikeresen nullázva lett!");
+                    Console.WriteLine();
+                    Console.ResetColor();
+                    kilepes = 1;
+                    break;
+                }
+                else if (nullazas.KeyChar == 'N' || nullazas.KeyChar == 'n')
+                {
+                    Console.WriteLine();
+                    Console.ForegroundColor = ConsoleColor.DarkGray;
+                    Console.WriteLine("A statisztika nem lett nullázva!");
+                    Console.WriteLine();
+                    Console.ResetColor();
+                    kilepes = 1;
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine();
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Ismeretlen billentyű!");
+                    Console.ResetColor();
+                }
                 break;
 
             case 'k':
-                kilepes = 1;
-
+                Console.WriteLine("Program bezárása...");
+                ikilepes = 1;
                 break;
 
             default:
@@ -272,4 +314,4 @@ do
                 break;
         }
     } while (kilepes == 0);
-} while (true);
+} while (ikilepes == 0);

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\11.D\\asztali alkalmazasok\\10.22_jatek-kopapirollo\\10.22_jatek-kopapirollo.csproj": {}
+    "C:\\Users\\TokodiTrisztan\\Documents\\GitHub\\10.22_kopapirollo\\10.22_jatek-kopapirollo\\10.22_jatek-kopapirollo.csproj": {}
   },
   "projects": {
-    "H:\\11.D\\asztali alkalmazasok\\10.22_jatek-kopapirollo\\10.22_jatek-kopapirollo.csproj": {
+    "C:\\Users\\TokodiTrisztan\\Documents\\GitHub\\10.22_kopapirollo\\10.22_jatek-kopapirollo\\10.22_jatek-kopapirollo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\11.D\\asztali alkalmazasok\\10.22_jatek-kopapirollo\\10.22_jatek-kopapirollo.csproj",
+        "projectUniqueName": "C:\\Users\\TokodiTrisztan\\Documents\\GitHub\\10.22_kopapirollo\\10.22_jatek-kopapirollo\\10.22_jatek-kopapirollo.csproj",
         "projectName": "10.22_jatek-kopapirollo",
-        "projectPath": "H:\\11.D\\asztali alkalmazasok\\10.22_jatek-kopapirollo\\10.22_jatek-kopapirollo.csproj",
+        "projectPath": "C:\\Users\\TokodiTrisztan\\Documents\\GitHub\\10.22_kopapirollo\\10.22_jatek-kopapirollo\\10.22_jatek-kopapirollo.csproj",
         "packagesPath": "C:\\Users\\TokodiTrisztan\\.nuget\\packages\\",
-        "outputPath": "H:\\11.D\\asztali alkalmazasok\\10.22_jatek-kopapirollo\\obj\\",
+        "outputPath": "C:\\Users\\TokodiTrisztan\\Documents\\GitHub\\10.22_kopapirollo\\10.22_jatek-kopapirollo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

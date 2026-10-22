@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10.22_jatek-kopapirollo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d3e68f2132cc4eee2c9491a8bb08e843bb8118d")]
 [assembly: System.Reflection.AssemblyProductAttribute("10.22_jatek-kopapirollo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10.22_jatek-kopapirollo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
