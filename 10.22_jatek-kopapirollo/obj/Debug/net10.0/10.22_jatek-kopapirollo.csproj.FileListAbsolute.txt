@@ -1,0 +1,14 @@
+H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\bin\Debug\net10.0\10.22_jatek-kopapirollo.exe
+H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\bin\Debug\net10.0\10.22_jatek-kopapirollo.deps.json
+H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\bin\Debug\net10.0\10.22_jatek-kopapirollo.runtimeconfig.json
+H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\bin\Debug\net10.0\10.22_jatek-kopapirollo.dll
+H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\bin\Debug\net10.0\10.22_jatek-kopapirollo.pdb
+H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.GeneratedMSBuildEditorConfig.editorconfig
+H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.AssemblyInfoInputs.cache
+H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.AssemblyInfo.cs
+H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.csproj.CoreCompileInputs.cache
+H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.dll
+H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\obj\Debug\net10.0\refint\10.22_jatek-kopapirollo.dll
+H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.pdb
+H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\obj\Debug\net10.0\10.22_jatek-kopapirollo.genruntimeconfig.cache
+H:\11.D\asztali alkalmazasok\10.22_jatek-kopapirollo\obj\Debug\net10.0\ref\10.22_jatek-kopapirollo.dll
